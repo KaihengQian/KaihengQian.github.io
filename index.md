@@ -18,7 +18,7 @@ I am currently a Master's student (from fall, 2025) at the [School of Informatio
 - **[June 2025]** 📑 I have been awarded the **Excellent Bachelor Thesis Award**!
 - **[May 2025]** 📑 Our paper "[FunBench](https://arxiv.org/abs/2503.00901): Benchmarking Fundus Reading Skills of MLLMs" has been early accepted by **MICCAI 2025**!
 - **[Feb. 2025]** 💻 I joined **Meituan** as a research intern focusing on MLLMs training and evaluation.
-- **[Nov. 2023]** 🏆 I led my team to complete our project "[ClipWiz](https://github.com/KaihengQian/ClipWiz): Assistant for Automatic Generation of Video Highlights in Multiple Scenarios", which was honored as the **Shanghai Undergraduate Training Program for Innovation and Entrepreneurship**!
+- **[Nov. 2023]** 🏆 Our project "[ClipWiz](https://github.com/KaihengQian/ClipWiz): Assistant for Automatic Generation of Video Highlights in Multiple Scenarios" has been honored as the **Shanghai Undergraduate Training Program for Innovation and Entrepreneurship**!
 - **[Sep. 2023]** 📚 I started serving as a student tutor this academic year.
 - **[Sep. 2025]** 📚 I started my bachelor's studies at DaSE, ECNU.
 
