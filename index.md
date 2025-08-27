@@ -16,9 +16,9 @@ I am currently a Master's student (from fall, 2025) at the [School of Informatio
 - **[Sep. 2025]** 📚📚 I started my master's studies at AIMC Lab, RUC under the supervision of Prof. Xirong Li.
 - **[June 2025]** 🎓🎓 I have successfully graduated from ECNU and been honored as an **Outstanding Graduate of East China Normal University**!
 - **[June 2025]** 📑📑 I have been awarded the **Excellent Bachelor Thesis Award**!
-- **[May 2025]** &nbsp;📑📑 Our paper "[FunBench](https://arxiv.org/abs/2503.00901): Benchmarking Fundus Reading Skills of MLLMs" has been early accepted by **MICCAI 2025**!
+- **[May 2025]** 📑📑 Our paper "[FunBench](https://arxiv.org/abs/2503.00901): Benchmarking Fundus Reading Skills of MLLMs" has been early accepted by **MICCAI 2025**!
 - **[Feb. 2025]** 💻💻 I joined **Meituan** as a research intern focusing on MLLMs training and evaluation.
-- **[Nov. 2023]** I led my team to complete our project "[ClipWiz](https://github.com/KaihengQian/ClipWiz): Assistant for Automatic Generation of Video Highlights in Multiple Scenarios", which was honored as the **Shanghai Undergraduate Training Program for Innovation and Entrepreneurship**!
+- **[Nov. 2023]** 🏆🏆 I led my team to complete our project "[ClipWiz](https://github.com/KaihengQian/ClipWiz): Assistant for Automatic Generation of Video Highlights in Multiple Scenarios", which was honored as the **Shanghai Undergraduate Training Program for Innovation and Entrepreneurship**!
 - **[Sep. 2023]** 📚📚 I started serving as a student tutor this academic year.
 - **[Sep. 2025]** 📚📚 I started my bachelor's studies at DaSE, ECNU.
 
@@ -29,19 +29,19 @@ I am currently a Master's student (from fall, 2025) at the [School of Informatio
 ## Internships
 
 - **[Feb. 2025 - June 2025]** Research Intern, [M17, Meituan](https://tech.meituan.com/), Shanghai, China
-- **[Oct. 2024 - Feb. 2025]** &nbsp;Research Assistant, [AIMC Lab, RUC](https://ruc-aimc-lab.github.io/aboutme/), Beijing, China
+- **[Oct. 2024 - Feb. 2025]** Research Assistant, [AIMC Lab, RUC](https://ruc-aimc-lab.github.io/aboutme/), Beijing, China
 -->
 ## Awards & Honors
 
 - **[June 2025]** Excellent Bachelor Thesis Award (*Top 3%*), East China Normal University
-- **[May 2025]**  &nbsp;Outstanding Graduate of ECNU, East China Normal University
+- **[May 2025]**  Outstanding Graduate of ECNU, East China Normal University
 - **[2023-2024]** Second Class Scholarship for 2 times, East China Normal University
 - **[Dec. 2022]** Outstanding Student (*Top 5%*), East China Normal University
 - **[Nov. 2022]** Special Prize Scholarship (*Top 2%*), East China Normal University
 
 ## Educations
 
-- **[Sep. 2025 - Present]**   &nbsp;&nbsp;&nbsp;&nbsp;Master, School of Information, Renmin University of China, Beijing, China
+- **[Sep. 2025 - Present]**   &nbsp;&nbsp;&nbsp;Master, School of Information, Renmin University of China, Beijing, China
 - **[Sep. 2021 - June 2025]** Undergraduate, School of Data Science and Engineering, East China Normal University, Shanghai, China
 
 <!--
