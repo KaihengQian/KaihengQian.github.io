@@ -28,8 +28,8 @@ I am currently a Master's student (from fall, 2025) at the [School of Informatio
 <!--
 ## Internships
 
-- **[Feb. 2025 - June 2025]** Research Intern, [M17, Meituan](https://tech.meituan.com/), Shanghai, China
-- **[Oct. 2024 - Feb. 2025]** Research Assistant, [AIMC Lab, RUC](https://ruc-aimc-lab.github.io/aboutme/), Beijing, China
+- **[Feb. 2025 - June 2025]** Research Intern, [M17, Meituan](https://tech.meituan.com/) ![Meituan](assets/img/Meituan_logo.png), Shanghai, China
+- **[Oct. 2024 - Jan. 2025]** Research Assistant, [AIMC Lab, RUC](https://ruc-aimc-lab.github.io/aboutme/), Beijing, China
 -->
 ## Awards & Honors
 
@@ -41,8 +41,8 @@ I am currently a Master's student (from fall, 2025) at the [School of Informatio
 
 ## Educations
 
-- **[Sep. 2025 - Present]**   &nbsp;&nbsp;&nbsp;Master, School of Information, Renmin University of China, Beijing, China
-- **[Sep. 2021 - June 2025]** Undergraduate, School of Data Science and Engineering, East China Normal University, Shanghai, China
+- **[Sep. 2025 - Present]**   &nbsp;&nbsp;&nbsp;Master, School of Information ![Info](assets/img/Info_logo.jpeg), Renmin University of China ![RUC](assets/img/RUC_logo.png), Beijing, China
+- **[Sep. 2021 - June 2025]** Undergraduate, School of Data Science and Engineering ![DaSE](assets/img/DaSE_logo.png), East China Normal University ![ECNU](assets/img/ECNU_logo.png), Shanghai, China
 
 <!--
 {% include_relative _includes/services.md %}
