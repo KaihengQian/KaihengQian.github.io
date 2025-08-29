@@ -22,9 +22,9 @@ I am currently a Master's student (from fall, 2025) at the [School of Informatio
 - **[Sep. 2023]** 📚 I started serving as a student tutor this academic year.
 - **[Sep. 2025]** 📚 I started my bachelor's studies at DaSE, ECNU.
 
-<!--
+
 {% include_relative _includes/publications.md %}
--->
+
 <!--
 ## Internships
 
