@@ -20,7 +20,7 @@ I am currently a Master's student (from fall, 2025) at the [School of Informatio
 - **[Feb. 2025]** 💻 I joined **Meituan** as a research intern focusing on MLLMs finetuning and evaluation.
 - **[Nov. 2023]** 🏆 Our project "[ClipWiz](https://github.com/KaihengQian/ClipWiz): Assistant for Automatic Generation of Video Highlights in Multiple Scenarios" has been honored as the **Shanghai Undergraduate Training Program for Innovation and Entrepreneurship**!
 - **[Sep. 2023]** 📚 I started serving as a student tutor this academic year.
-- **[Sep. 2025]** 📚 I started my bachelor's studies at DaSE, ECNU.
+- **[Sep. 2021]** 📚 I started my bachelor's studies at DaSE, ECNU.
 
 
 {% include_relative _includes/publications.md %}
