@@ -25,12 +25,12 @@ I am currently a Master's student (from fall, 2025) at the [School of Informatio
 
 {% include_relative _includes/publications.md %}
 
-<!--
+
 ## Internships
 
-- **[Feb. 2025 - June 2025]** Research Intern, [M17, Meituan](https://tech.meituan.com/) ![Meituan](assets/img/Meituan_logo.png), Shanghai, China
+- **[Feb. 2025 - June 2025]** Research Intern, [M17, Meituan](https://tech.meituan.com/) <img src="assets/img/Meituan_logo.svg" alt="Meituan" width="14"/>, Shanghai, China
 - **[Oct. 2024 - Jan. 2025]** Research Assistant, [AIMC Lab, RUC](https://ruc-aimc-lab.github.io/aboutme/), Beijing, China
--->
+
 ## Awards & Honors
 
 - **[June 2025]** Excellent Bachelor Thesis Award (*Top 3%*), East China Normal University
@@ -41,8 +41,8 @@ I am currently a Master's student (from fall, 2025) at the [School of Informatio
 
 ## Educations
 
-- **[Sep. 2025 - Present]**   &nbsp;&nbsp;&nbsp;Master, School of Information ![Info](assets/img/Info_logo.jpeg), Renmin University of China ![RUC](assets/img/RUC_logo.png), Beijing, China
-- **[Sep. 2021 - June 2025]** Undergraduate, School of Data Science and Engineering ![DaSE](assets/img/DaSE_logo.png), East China Normal University ![ECNU](assets/img/ECNU_logo.png), Shanghai, China
+- **[Sep. 2025 - Present]**   &nbsp;&nbsp;&nbsp;Master, School of Information <img src="assets/img/Info_logo.svg" alt="Info" width="14"/>, Renmin University of China <img src="assets/img/RUC_logo.svg" alt="RUC" width="14"/>, Beijing, China
+- **[Sep. 2021 - June 2025]** Undergraduate, School of Data Science and Engineering <img src="assets/img/DaSE_logo.svg" alt="DaSE" width="14"/>, East China Normal University <img src="assets/img/ECNU_logo.svg" alt="ECNU" width="14"/> , Shanghai, China
 
 <!--
 {% include_relative _includes/services.md %}
