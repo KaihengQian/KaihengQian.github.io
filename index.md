@@ -26,13 +26,13 @@ I am currently a Master's student (from fall, 2025) at the [School of Informatio
 
 {% include_relative _includes/publications.md %}
 
-
+<!--
 ## Internships
 
-- **[Oct. 2025 - Present]** Research Intern, [Qianfan, Baidu](https://tech.meituan.com/) <img src="assets/img/Baidu_logo.svg" alt="Meituan" width="20" style="vertical-align: -4px;"/>, Beijing, China
+- **[Oct. 2025 - Present]** Research Intern, [Qianfan, Baidu](https://cloud.baidu.com/product-s/qianfan_home) <img src="assets/img/Baidu_logo.svg" alt="Meituan" width="20" style="vertical-align: -4px;"/>, Beijing, China
 - **[Feb. 2025 - June 2025]** Research Intern, [M17, Meituan](https://tech.meituan.com/) <img src="assets/img/Meituan_logo.svg" alt="Meituan" width="20" style="vertical-align: -4px;"/>, Shanghai, China
 - **[Oct. 2024 - Jan. 2025]** Research Assistant, [AIMC Lab, RUC](https://ruc-aimc-lab.github.io/aboutme/), Beijing, China
-
+-->
 ## Awards & Honors
 
 - **[June 2025]** Excellent Bachelor Thesis Award (*Top 3%*), East China Normal University
