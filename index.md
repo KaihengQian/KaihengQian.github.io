@@ -13,11 +13,12 @@ I am currently a Master's student (from fall, 2025) at the [School of Informatio
 
 ## News
 
+- **[Oct. 2025]** 💻 I joined **Baidu** as a research intern focusing on MLLMs Finetuning.
 - **[Sep. 2025]** 📚 I started my master's studies at AIMC Lab, RUC under the supervision of Prof. Xirong Li.
 - **[June 2025]** 🎓 I have successfully graduated from ECNU and been honored as an **Outstanding Graduate of East China Normal University**!
 - **[June 2025]** 📑 I have been awarded the **Excellent Bachelor Thesis Award**!
 - **[May 2025]** 📑 Our paper "[FunBench](https://arxiv.org/abs/2503.00901): Benchmarking Fundus Reading Skills of MLLMs" has been early accepted by **MICCAI 2025**!
-- **[Feb. 2025]** 💻 I joined **Meituan** as a research intern focusing on MLLMs finetuning and evaluation.
+- **[Feb. 2025]** 💻 I joined **Meituan** as a research intern focusing on MLLMs Post-Training and Evaluation.
 - **[Nov. 2023]** 🏆 Our project "[ClipWiz](https://github.com/KaihengQian/ClipWiz): Assistant for Automatic Generation of Video Highlights in Multiple Scenarios" has been honored as the **Shanghai Undergraduate Training Program for Innovation and Entrepreneurship**!
 - **[Sep. 2023]** 📚 I started serving as a student tutor this academic year.
 - **[Sep. 2021]** 📚 I started my bachelor's studies at DaSE, ECNU.
@@ -28,6 +29,7 @@ I am currently a Master's student (from fall, 2025) at the [School of Informatio
 
 ## Internships
 
+- **[Oct. 2025 - Present]** Research Intern, [Qianfan, Baidu](https://tech.meituan.com/) <img src="assets/img/Baidu_logo.svg" alt="Meituan" width="20" style="vertical-align: -4px;"/>, Beijing, China
 - **[Feb. 2025 - June 2025]** Research Intern, [M17, Meituan](https://tech.meituan.com/) <img src="assets/img/Meituan_logo.svg" alt="Meituan" width="20" style="vertical-align: -4px;"/>, Shanghai, China
 - **[Oct. 2024 - Jan. 2025]** Research Assistant, [AIMC Lab, RUC](https://ruc-aimc-lab.github.io/aboutme/), Beijing, China
 
