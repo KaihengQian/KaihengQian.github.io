@@ -4,16 +4,17 @@ layout: homepage
 
 ## About Me
 
-I am currently a Master's student (from fall, 2025) at the [School of Information](http://info.ruc.edu.cn/) at [Renmin University of China (RUC)](https://www.ruc.edu.cn/) and a member of the [Advanced Intelligence and MaChine Vision Lab (AIMC Lab)](https://ruc-aimc-lab.github.io/aboutme/), advised by Prof. [Xirong Li](https://lixirong.net/). Before that, I obtained my Bachelor’s degree with distinction from the [School of Data Science and Engineering](https://dase.ecnu.edu.cn/) at [East China Normal University](https://www.ecnu.edu.cn/), where I was privileged to be instructed by Prof. [Bin Yang](https://binyangdk.github.io/) and Prof. [Ye Wang](https://dase.ecnu.edu.cn/37/67/c41776a538471/page.htm) for research and engineering projects.
+I am currently a Master's student (from fall, 2025) at the [School of Information](http://info.ruc.edu.cn/) at [Renmin University of China (RUC)](https://www.ruc.edu.cn/) and a member of the [Advanced Intelligence and MaChine Vision Lab (AIMC Lab)](https://ruc-aimc-lab.github.io/aboutme/), advised by Prof. [Xirong Li](http://info.ruc.edu.cn/jsky/szdw/ajxjgcx/jsjkxyjsx1/js2/fe4411ba1320491698c4c7e555d03510.htm). Before that, I obtained my Bachelor’s degree with distinction from the [School of Data Science and Engineering](https://dase.ecnu.edu.cn/) at [East China Normal University](https://www.ecnu.edu.cn/), where I was privileged to be instructed by Prof. [Bin Yang](https://binyangdk.github.io/) and Prof. [Ye Wang](https://dase.ecnu.edu.cn/37/67/c41776a538471/page.htm) for research and engineering projects.
 
 ## Research Interests
 
-- **Multimodal Learning:** Multimodal Large Language Model, (M)LLM-assisted Ophthalmic Diagnosis
-- **Video Understanding:** Video Highlights Generation
+- **Multimodal Learning:** MLLMs-based Multimodal Representation and Understanding 
+- **Video Understanding:** Video Highlights Generation, Streaming Video Understanding
+- **AI for Healthcare:** Domain-specific QA&VQA Synthesis and (M)LLMs Adaptation
 
 ## News
 
-- **[Oct. 2025]** 💻 I joined **Baidu** as a research intern focusing on MLLMs Finetuning.
+- **[Oct. 2025]** 💻 I joined **Baidu** as a research intern focusing on MLLM-based Multimodal Embedding.
 - **[Sep. 2025]** 📚 I started my master's studies at AIMC Lab, RUC under the supervision of Prof. Xirong Li.
 - **[June 2025]** 🎓 I have successfully graduated from ECNU and been honored as an **Outstanding Graduate of East China Normal University**!
 - **[June 2025]** 📑 I have been awarded the **Excellent Bachelor Thesis Award**!
