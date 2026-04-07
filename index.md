@@ -8,7 +8,7 @@ I am currently a Master's student (from fall, 2025) at the [School of Informatio
 
 ## Research Interests
 
-- **Multimodal Learning:** MLLMs-based Multimodal Representation and Understanding 
+- **Multimodal Learning:** MLLM-based Multimodal Representation and Understanding 
 - **Video Understanding:** Video Highlights Generation, Streaming Video Understanding
 - **AI for Healthcare:** Domain-specific QA&VQA Synthesis and (M)LLMs Adaptation
 
@@ -31,8 +31,8 @@ I am currently a Master's student (from fall, 2025) at the [School of Informatio
 ## Internships
 
 - **[Oct. 2025 - Present]** Research Intern, [Qianfan, Baidu](https://cloud.baidu.com/product-s/qianfan_home) <img src="assets/img/Baidu_logo.svg" alt="Baidu" width="20" style="vertical-align: -4px;"/>, Beijing, China
-- **[Feb. 2025 - June 2025]** Research Intern, [M17, Meituan](https://tech.meituan.com/) <img src="assets/img/Meituan_logo.svg" alt="Meituan" width="20" style="vertical-align: -4px;"/>, Shanghai, China
-- **[Oct. 2024 - Jan. 2025]** Research Assistant, [AIMC Lab, RUC](https://ruc-aimc-lab.github.io/aboutme/), Beijing, China
+- **[Feb. 2025 - June 2025]** Research Intern, [M17(LongCat), Meituan](https://www.longcatai.org/) <img src="assets/img/Meituan_logo.svg" alt="Meituan" width="20" style="vertical-align: -4px;"/>, Shanghai, China
+- **[Oct. 2024 - Jan. 2025]** Research Assistant, [AIMC Lab, RUC](https://ruc-aimc-lab.github.io/aboutme/), Remote
 
 ## Awards & Honors
 
