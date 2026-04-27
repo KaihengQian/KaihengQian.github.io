@@ -31,7 +31,7 @@ I am currently a Master's student (from fall, 2025) at the [School of Informatio
 
 ## Internships
 
-- **[Apr. 2026 - Present]** Research Intern, [AliExpress, Alibaba](https://aidc-jobs.alibaba.com/) <img src="assets/img/Alibaba_logo.svg" alt="Alibaba" width="20" style="vertical-align: -4px;"/>, Hangzhou, China
+- **[Apr. 2026 - Present]** Research Intern, [AliExpress, Alibaba](https://aidc-jobs.alibaba.com/) <img src="assets/img/Alibaba_logo.svg" alt="Alibaba" width="22" style="vertical-align: -2px;"/>, Hangzhou, China
 - **[Oct. 2025 - Mar. 2026]** Research Intern, [Qianfan, Baidu](https://cloud.baidu.com/product-s/qianfan_home/) <img src="assets/img/Baidu_logo.svg" alt="Baidu" width="20" style="vertical-align: -4px;"/>, Beijing, China
 - **[Feb. 2025 - Jun. 2025]** Research Intern, [M17, Meituan](https://www.longcatai.org/) <img src="assets/img/Meituan_logo.svg" alt="Meituan" width="20" style="vertical-align: -4px;"/>, Shanghai, China
 - **[Oct. 2024 - Jan. 2025]** Research Assistant, [AIMC Lab, RUC](https://ruc-aimc-lab.github.io/aboutme/), Remote
