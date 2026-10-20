@@ -11,7 +11,7 @@ I am currently a Master's student (from fall, 2025) at the [School of Informatio
     I will graduate with a Master's degree in June 2027, and I am actively seeking campus recruitment opportunities for LLM Algorithm Engineer (Multimodal Representation / Understanding). Feel free to reach out!
   </span>
   <a href="mailto:kaiheng.qian@ruc.edu.cn" style="text-decoration: none; margin-left: 4px;" title="Send Email">
-    <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="white" style="vertical-align: top;">
+    <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="#0366d6" style="vertical-align: top;">
       <path d="M20 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z"/>
     </svg>
   </a>
@@ -59,7 +59,7 @@ I am currently a Master's student (from fall, 2025) at the [School of Informatio
 
 ## Educations
 
-- **[Sep. 2025 - Present]**   &nbsp;&nbsp;&nbsp;Master, School of Information <img src="assets/img/Info_logo.svg" alt="Info" width="20" style="vertical-align: -4px;"/>, Renmin University of China <img src="assets/img/RUC_logo.svg" alt="RUC" width="20" style="vertical-align: -4px;"/>, Beijing, China
+- **[Sep. 2025 - Jun. 2027]** Master, School of Information <img src="assets/img/Info_logo.svg" alt="Info" width="20" style="vertical-align: -4px;"/>, Renmin University of China <img src="assets/img/RUC_logo.svg" alt="RUC" width="20" style="vertical-align: -4px;"/>, Beijing, China
 - **[Sep. 2021 - Jun. 2025]** Undergraduate, School of Data Science and Engineering <img src="assets/img/DaSE_logo.svg" alt="DaSE" width="20" style="vertical-align: -5px;"/>, East China Normal University <img src="assets/img/ECNU_logo.svg" alt="ECNU" width="20" style="vertical-align: -5px;"/> , Shanghai, China
 
 <!--
