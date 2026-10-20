@@ -6,6 +6,17 @@ layout: homepage
 
 I am currently a Master's student (from fall, 2025) at the [School of Information](http://info.ruc.edu.cn/) at [Renmin University of China (RUC)](https://www.ruc.edu.cn/) and a member of the [Advanced Intelligence and MaChine Vision Lab (AIMC Lab)](https://ruc-aimc-lab.github.io/aboutme/), advised by Prof. [Xirong Li](http://info.ruc.edu.cn/jsky/szdw/ajxjgcx/jsjkxyjsx1/js2/fe4411ba1320491698c4c7e555d03510.htm). Before that, I obtained my Bachelor’s degree with distinction from the [School of Data Science and Engineering](https://dase.ecnu.edu.cn/) at [East China Normal University](https://www.ecnu.edu.cn/), where I was privileged to be instructed by Prof. [Bin Yang](https://binyangdk.github.io/) and Prof. [Ye Wang](https://dase.ecnu.edu.cn/37/67/c41776a538471/page.htm) for research and engineering projects.
 
+<p>
+  <span style="color: red;">
+    I will graduate with a Master's degree in June 2027, and I am actively seeking campus recruitment opportunities for LLM Algorithm Engineer (Multimodal Representation / Understanding). Feel free to reach out!
+  </span>
+  <a href="mailto:kaiheng.qian@ruc.edu.cn" style="text-decoration: none; margin-left: 4px;" title="Send Email">
+    <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="white" style="vertical-align: top;">
+      <path d="M20 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z"/>
+    </svg>
+  </a>
+</p>
+
 ## Research Interests
 
 - **Multimodal Learning:** MLLM-based Multimodal Representation and Understanding 
@@ -31,13 +42,14 @@ I am currently a Master's student (from fall, 2025) at the [School of Informatio
 
 ## Internships
 
-- **[Apr. 2026 - Present]** Research Intern, [AliExpress, Alibaba](https://aidc-jobs.alibaba.com/) <img src="assets/img/Alibaba_logo.svg" alt="Alibaba" width="22" style="vertical-align: 0px;"/>, Hangzhou, China
-- **[Oct. 2025 - Mar. 2026]** Research Intern, [Qianfan, Baidu](https://cloud.baidu.com/product-s/qianfan_home/) <img src="assets/img/Baidu_logo.svg" alt="Baidu" width="20" style="vertical-align: -4px;"/>, Beijing, China
+- **[Apr. 2026 - Sep. 2026]** Research Intern, [AliExpress, Alibaba](https://aidc-jobs.alibaba.com/) <img src="assets/img/Alibaba_logo.svg" alt="Alibaba" width="22" style="vertical-align: 0px;"/>, Hangzhou, China
+- **[Oct. 2025 - Mar. 2026]** Research Intern, [Qianfan, Baidu](https://cloud.baidu.com/product-s/qianfan_home) <img src="assets/img/Baidu_logo.svg" alt="Baidu" width="20" style="vertical-align: -4px;"/>, Beijing, China
 - **[Feb. 2025 - Jun. 2025]** Research Intern, [M17, Meituan](https://www.longcatai.org/) <img src="assets/img/Meituan_logo.svg" alt="Meituan" width="20" style="vertical-align: -4px;"/>, Shanghai, China
 - **[Oct. 2024 - Jan. 2025]** Research Assistant, [AIMC Lab, RUC](https://ruc-aimc-lab.github.io/aboutme/), Remote
 
 ## Awards & Honors
 
+- **[Oct. 2026]** Second Class Scholarship, Renmin University of China
 - **[Oct. 2025]** Third Class Scholarship, Renmin University of China
 - **[Jun. 2025]** Excellent Bachelor Thesis Award (*Top 3%*), East China Normal University
 - **[May 2025]**  Outstanding Graduate of ECNU, East China Normal University
